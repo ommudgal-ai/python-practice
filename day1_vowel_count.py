@@ -1,4 +1,4 @@
-text = "Data"
+text = "Artificial Intelligence"
 vowels = ["a", "e", "i", "o", "u"]
 count = 0
 
